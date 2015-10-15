@@ -1,0 +1,2 @@
+# personaldata
+work of authorship on SQL statistics databases and the philosophy there o SQL statistics databases and the philosophy thereof. This will apply to anyone who is wanted to actually use data for something that isn't strictly defined by a job requirement in order to get a leg up on the proces This will apply to anyone who is wanted to actually use data for something that isn't strictly defined by a job requirement in order to get a leg up on the process. Working process working alph working alpha.
